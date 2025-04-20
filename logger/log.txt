@@ -1,0 +1,5 @@
+2025-04-20 18:25:39 DEBUG main.cpp:15 
+2025-04-20 18:26:03 DEBUG main.cpp:15 
+2025-04-20 18:47:41 DEBUG main.cpp:15 
+2025-04-20 18:48:57 FATAL main.cpp:15 
+keep trying go
