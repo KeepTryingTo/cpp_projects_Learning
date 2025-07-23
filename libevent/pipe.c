@@ -24,6 +24,7 @@ int main(){
         exit(1);
     }
 
+    // 打开管道进行读操作
     int fd = open("fifo.tmp", O_RDONLY);
     if(fd == -1){
         perror("open fifo is failed!");
